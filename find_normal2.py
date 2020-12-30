@@ -8,7 +8,7 @@ import random
 ## 画像設定 (make_input_model.pyの設定と同じにすること)
 N_ROW  = 128 # 画像の行 (縦方向) の数
 N_COL  = 128 # 画像の列 (横方向) の数
-pic_num = 10 # 作成した画像の数
+pic_num =  7 # 作成した画像の数
 
 ## 入力ディレクトリ (最後の / は不要)
 INPUT_DIR = "input"; 
